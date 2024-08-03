@@ -32,3 +32,6 @@ Unimodal Distribution
 
 Multimodal Distribution
 <img src="./media/mcmc_1d_multimodal.png" alt="multimodal distribution">
+
+## References
+- 花田政範/松浦壮 (2020), ゼロからできるMCMC マルコフ連鎖モンテカルロ法の実践的入門
